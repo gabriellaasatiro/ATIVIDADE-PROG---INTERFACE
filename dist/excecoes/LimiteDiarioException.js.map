@@ -1,0 +1,1 @@
+{"version":3,"file":"LimiteDiarioException.js","sourceRoot":"","sources":["../../src/excecoes/LimiteDiarioException.ts"],"names":[],"mappings":";;;AAAA,qDAAkD;AAElD,MAAa,qBAAsB,SAAQ,+BAAc;IACrD;QACI,KAAK,CAAC,kCAAkC,CAAC,CAAC;QAC1C,IAAI,CAAC,IAAI,GAAG,uBAAuB,CAAC;IACxC,CAAC;CACJ;AALD,sDAKC"}

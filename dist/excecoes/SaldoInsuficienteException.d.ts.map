@@ -1,0 +1,1 @@
+{"version":3,"file":"SaldoInsuficienteException.d.ts","sourceRoot":"","sources":["../../src/excecoes/SaldoInsuficienteException.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,kBAAkB,CAAC;AAElD,qBAAa,0BAA2B,SAAQ,cAAc;IAC1D,QAAQ,EAAE,MAAM,CAAC;gBAEL,QAAQ,EAAE,MAAM;CAK/B"}

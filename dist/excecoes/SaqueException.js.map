@@ -1,0 +1,1 @@
+{"version":3,"file":"SaqueException.js","sourceRoot":"","sources":["../../src/excecoes/SaqueException.ts"],"names":[],"mappings":";;;AAAA,MAAsB,cAAe,SAAQ,KAAK;IAC9C,YAAY,QAAgB;QACxB,KAAK,CAAC,QAAQ,CAAC,CAAC;QAChB,IAAI,CAAC,IAAI,GAAG,gBAAgB,CAAC;IACjC,CAAC;CACJ;AALD,wCAKC"}

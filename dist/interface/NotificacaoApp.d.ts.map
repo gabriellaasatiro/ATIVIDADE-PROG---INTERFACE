@@ -1,0 +1,1 @@
+{"version":3,"file":"NotificacaoApp.d.ts","sourceRoot":"","sources":["../../src/interface/NotificacaoApp.ts"],"names":[],"mappings":"AACA,OAAO,KAAK,EAAE,OAAO,EAAE,MAAM,YAAY,CAAC;AAC1C,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,eAAe,CAAC;AAEjD,qBAAa,cAAe,YAAW,WAAW;IAE9C,cAAc,CAAC,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAE,MAAM,GAAG,IAAI;CAO3D"}
